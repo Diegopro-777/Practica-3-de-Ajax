@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Paula Modificada",
+    "peso": 80,
+    "altura": 1.70,
+    "gordura": 25,
+    "imc": 27.68
+  },
+  {
+    "nombre": "Carlos Nuevo",
+    "peso": 95,
+    "altura": 1.85,
+    "gordura": 20,
+    "imc": 27.76
+  }
+]
