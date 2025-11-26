@@ -1,16 +1,15 @@
 [
   {
-    "nombre": "Paula",
-    "peso": 80,
-    "altura": 1.70,
-    "gordura": 25,
-    "imc": 27.68
+    "nombre": "Sofia Alvarez",
+    "peso": 65,
+    "altura": 1.65,
+    "gordura": 22,
+    "imc": 23.88
   },
   {
-    "nombre": "Carlos",
-    "peso": 95,
-    "altura": 1.85,
-    "gordura": 20,
-    "imc": 27.76
+    "nombre": "Javier Lopez",
+    "peso": 88,
+    "altura": 1.80,
+    "gordura": 28,
+    "imc": 27.16
   }
-]
