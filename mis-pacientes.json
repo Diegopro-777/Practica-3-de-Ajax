@@ -1,13 +1,13 @@
 [
   {
-    "nombre": "Paula Modificada",
+    "nombre": "Paula",
     "peso": 80,
     "altura": 1.70,
     "gordura": 25,
     "imc": 27.68
   },
   {
-    "nombre": "Carlos Nuevo",
+    "nombre": "Carlos",
     "peso": 95,
     "altura": 1.85,
     "gordura": 20,
