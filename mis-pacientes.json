@@ -1,15 +1,37 @@
 [
-  {
-    "nombre": "Sofia Alvarez",
-    "peso": 65,
-    "altura": 1.65,
-    "gordura": 22,
-    "imc": 23.88
-  },
-  {
-    "nombre": "Javier Lopez",
-    "peso": 88,
-    "altura": 1.80,
-    "gordura": 28,
-    "imc": 27.16
-  }
+{
+"nombre": "Diana Ruiz",
+"peso": 68,
+"altura": 1.75,
+"gordura": 21,
+"imc": 22.2
+},
+{
+"nombre": "Roberto Fuentes",
+"peso": 92,
+"altura": 1.83,
+"gordura": 26,
+"imc": 27.5
+},
+{
+"nombre": "Elena Castillo",
+"peso": 55,
+"altura": 1.60,
+"gordura": 19,
+"imc": 21.5
+},
+{
+"nombre": "Andrés Mora",
+"peso": 75,
+"altura": 1.78,
+"gordura": 24,
+"imc": 23.67
+},
+{
+"nombre": "Laura Pérez",
+"peso": 62,
+"altura": 1.70,
+"gordura": 20,
+"imc": 21.45
+}
+]
